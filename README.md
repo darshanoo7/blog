@@ -3,6 +3,7 @@
 ##Thermochemistry
 1.∆H positive means endothermic
 2.∆H negative means exothermic
+3.dgmaksl
 
 You can use the [editor on GitHub](https://github.com/darshanoo7/blog/edit/MASTER/README.md) to maintain and preview the content for your website in Markdown files.
 

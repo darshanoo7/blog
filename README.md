@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.google.com/](https://www.google.com/) ![Image](src)
+[https://github.com/darshanoo7/blog.wiki.git]() ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
